@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MATLAB & C++**
 
-- 📫 How to reach me **machlerjohn@Gmail.com**
+- 📫 How to reach me **Johnathan@machler.xyz**
 
 - 📄 Know about my experiences [http://machler.xyz/resume/JmachlerResumeV4.pdf](http://machler.xyz/resume/JmachlerResumeV4.pdf)
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmachl&label=Profile%20views&color=0e75b6&style=flat" alt="jmachl" /> </p>
 
-- 🔭 I’m currently working on [Inverted F antenna](http://machler.xyz/portfolio/PCB%20Layout/)
+- 🔭 I’m currently working on a text to speech engine in Keras
 
 - 🌱 I’m currently learning **Eagle PCB Design**
 

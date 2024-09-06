@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/johnathan-machler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnathan-machler" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jmachler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jmachler" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@kd0moo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@kd0moo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@KD0MOO/playlists" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@kd0moo" height="30" width="40" /></a>
 <a href="https://discord.gg/esch3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="esch3r" height="30" width="40" /></a>
 </p>
 

@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Johnathan@machler.xyz**
 
-- 📄 Know about my experiences [http://machler.xyz/resume/](http://machler.xyz/resume/JmachlerResumeV4.pdf)
+- 📄 Know about my experiences [http://machler.xyz/resume/](http://machler.xyz/resume/)
 
 - ⚡ Fun fact **I can unicycle in circles around most people**
 

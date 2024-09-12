@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [http://machler.xyz/portfolio/](http://machler.xyz/portfolio/)
 
-- 💬 Ask me about **MATLAB & C++**
+- 💬 Ask me about **MATLAB, C++, Python, and Dart**
 
 - 📫 How to reach me **Johnathan@machler.xyz**
 

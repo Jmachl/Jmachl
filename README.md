@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Johnathan Machler</h1>
-<h3 align="center">I am a passionate Electrical Engineer from Minnesota</h3>
+<h3 align="center">I am a passionate Entrepreneur living in Florida</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmachl&label=Profile%20views&color=0e75b6&style=flat" alt="jmachl" /> </p>
 
 - 🔭 I’m currently working on a text to speech engine in Keras
 
-- 🌱 I’m currently learning **Eagle PCB Design**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [http://machler.xyz/portfolio/](http://machler.xyz/portfolio/)
 
 - 💬 Ask me about **MATLAB, C++, Python, and Dart**
 
-- 📫 How to reach me **Johnathan@machler.xyz**
+- 📫 How to reach me **<a href="mailto:Johnathan@machler.xyz">Johnathan@machler.xyz</a>**
+  
+-📫 How to reach me **<a href="mailto:Johnathan@machlerlabs.com">Johnathan@machlerlabs.com</a>**
 
 - 📄 Know about my experiences [http://machler.xyz/resume/](http://machler.xyz/resume/)
 

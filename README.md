@@ -19,11 +19,11 @@
 
 - 💬 Ask me about **Dart, Flutter, Python,**
 
-- 📫 How to reach me **johnathan@machler.xyz**
+- 📫 How to reach me **john@machler.xyz**
 
 - 📄 Know about my experiences [https://machler.xyz/bio/](https://machler.xyz/bio/)
 
-- ⚡ Fun fact **I I can unicycle circles around others**
+- ⚡ Fun fact **I can unicycle circles around others**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

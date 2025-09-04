@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [toyQuy™](https://machler.xyz/portfolio/AndroidApps/Toyquy/)  [this is our (developed by the labs team) toyQuy™ app beta please try it for yourself](https://testflight.apple.com/join/PAasnAyr)
 
-- 🌱 I’m currently learning **Flutter,**
+- 🌱 I’m currently learning **Flutter,Swift,ReactNative,Replit**
 
 - 👯 I’m looking to collaborate on [Unicycle Trainer](https://machler.xyz/portfolio/AndroidApps/UnicycleTrainer/)
 

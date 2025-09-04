@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/johnathanm71190" target="blank"><img src="https://img.shields.io/twitter/follow/johnathanm71190?logo=twitter&style=for-the-badge" alt="johnathanm71190" /></a> </p>
 
-- 🔭 I’m currently working on [toyQuy™](https://machler.xyz/portfolio/AndroidApps/Toyquy/)
+- 🔭 I’m currently working on [toyQuy™](https://machler.xyz/portfolio/AndroidApps/Toyquy/)  [this is our (developed by the labs team) toyQuy™ app beta please try it for yourself](https://testflight.apple.com/join/PAasnAyr)
 
 - 🌱 I’m currently learning **Flutter,**
 
